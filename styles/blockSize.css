@@ -1,0 +1,15 @@
+[class*="_Size_S"] {
+    width: 25%;
+}
+
+[class*="_Size_EM"] {
+    width: 60%;
+}
+
+[class*="_Size_L"] {
+    width: 100%;
+}
+
+[class*="_Size_M"] {
+    width: 50%;
+}

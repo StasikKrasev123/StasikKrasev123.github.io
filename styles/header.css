@@ -1,0 +1,74 @@
+.Header-Image {
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 30px;
+    width: 200px;
+}
+
+.Header {
+    color: #d6f1eb;
+}
+
+.Wrapper-Header {
+    margin-top: 0px;
+    padding-top: 15px;
+}
+
+.ListItem {
+    list-style-type: none;
+}
+
+.Header-List {
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+    font-size: 40px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+.Header-ListItem {
+    padding-left: 20px;
+}
+
+.Link {
+    color: grey;
+    text-shadow: 1px 1px 2px #d6f1eb;
+}
+
+.Link:hover {
+    color: aquamarine;
+}
+
+.Header-Text {
+    margin-left: 15px;
+    margin-top: 0px;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    text-shadow: 1px 1px 2px #d6f1eb;
+}
+
+.Text {
+    color: #5f5c5c;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.Subtitle {
+    color: gray;
+}
+
+.Header-SubTitle {
+    margin-top: 0px;
+    margin-left: 15px;
+    margin-bottom: 0px;
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px #d6f1eb;
+}
+
+.Header-Title {
+    margin-top: 0px;
+    padding-top: 0px;
+}
